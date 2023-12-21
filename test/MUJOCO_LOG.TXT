@@ -1,0 +1,6 @@
+Wed Dec 20 10:56:40 2023
+WARNING: mju_openResource: unknown file 'test_falling_cube.xml.xml'
+
+Wed Dec 20 10:56:42 2023
+WARNING: mju_openResource: unknown file 'test_falling_cube.xml.xml'
+
